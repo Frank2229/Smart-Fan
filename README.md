@@ -11,3 +11,4 @@ Components used:
 - HiLetgo 2pcs DHT22/AM2302 Digital Temperature And Humidity Sensor Module Temperature Humidity Monitor Sensor                     https://www.amazon.com/dp/B0795F19W6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 - Adafruit Industries Perma-Proto Half-sized Breadboard PCB                                                                        https://www.microcenter.com/product/504168/adafruit-industries-perma-proto-half-sized-breadboard-pcb-3-pack
 - Honeywell Turbo Force 2 in 1 Tower Oscillating Fan Black                                                                         https://www.target.com/p/honeywell-turbo-force-2-in-1-tower-oscillating-fan-black/-/A-75574814#lnk=sametab
+- 5V One Channel Relay Module Case                  (Author: Remy @ Printables.com)                                                https://www.printables.com/model/283316-5v-one-channel-relay-module-case
